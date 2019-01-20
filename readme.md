@@ -1,25 +1,30 @@
 # QGIS Tutorial
 
-— Has anyone used GIS software?
+- Has anyone used GIS software?
 - Has anyone used statistics software?
 
 ## Steps
 
 1. Install [QGIS](https://qgis.org/).
+
 2. Load OpenStreetMap and Satellite layers.
   1. Load [QuickMapServices](https://plugins.qgis.org/plugins/quick_map_services/) plugin.
   2. Load OpenStreetMap and Satellite layers.
   3. Make theme and explain themes.
+
 3. Data for Mexico City can be downloaded [here](https://www.inegi.org.mx/app/areasgeograficas/?ag=09). [Descarga masiva](https://www.inegi.org.mx/app/descarga/?ag=09).
   1. From `702825218744_s.zip`, load layer _fm_ (frente de manzana).
     1. Explain embed layers
     2. Add street names.
     3. Make theme.
+
   2. Load `09_Manzanas_INV2016_shp.zip`.
     1. Color blocks.
     2. Make heatmap.
     3. Make theme.
+
 4. Export to DXF and image
+
 5. Create print layout
   1. Insert map
   3. Insert legend

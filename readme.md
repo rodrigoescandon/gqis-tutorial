@@ -1,8 +1,5 @@
 # QGIS Tutorial
 
-- Has anyone used GIS software?
-- Has anyone used statistics software?
-
 ## Steps
 
 1. Install [QGIS](https://qgis.org/).
